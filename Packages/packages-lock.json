@@ -82,7 +82,7 @@
       }
     },
     "mu.cluster.cluster-creator-kit": {
-      "version": "file:C:/Users/Owner/Downloads/ClusterCreatorKit-1.6.2/ClusterCreatorKit-1.6.2",
+      "version": "file:/Users/hodakamizuki/Downloads/ClusterCreatorKit-1.6.2",
       "depth": 0,
       "source": "local",
       "dependencies": {}
